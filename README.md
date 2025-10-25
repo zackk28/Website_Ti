@@ -1,5 +1,5 @@
 # Website-Tekinfo.
-Nama             : Zackri Kurnia Amri.
+# Nama             : Zackri Kurnia Amri.
 Nim              : 2411082023.
 Kelas            : 2C.
 Program Studi    : D4 Teknologi Rekayasa Perangkat Lunak.
